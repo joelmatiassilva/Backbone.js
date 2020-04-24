@@ -1,5 +1,5 @@
 (function($){
-
+//hola covid19
 	var PersonaModel = Backbone.Model.extend({
 		initialize: function(){
 		
